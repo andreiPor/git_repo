@@ -6,7 +6,8 @@ I am learning Git step by step. 🚀
 ## Mini Description
 
 A simple project with HTML, CSS, and JS to display the current date and time on button click.  
-You can see it live on GitHub Pages: [View Project](https://<username>.github.io/<repo-name>/)
+You can see it live on GitHub Pages: [View Project](https://andreipor.github.io/git_repo/)
+
 
 ## Git Today – Quick List 🚀
 
